@@ -23,8 +23,3 @@ The PostgreSQL database consists of a *students* table with the following fields
 - *Name* (VARCHAR)  
 - *Age* (INT)  
 
-## Installation and Setup  
-### *1. Clone the Repository*  
-```sh
-git clone https://github.com/your-username/Student-Management-System.git
-cd Student-Management-System
